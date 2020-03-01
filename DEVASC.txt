@@ -6,3 +6,7 @@ so adding another line
 and even another one
 
 after branching
+
+so after all that i want
+
+to see teh diff
